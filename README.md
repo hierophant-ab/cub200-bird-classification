@@ -1,5 +1,3 @@
-# cub200-bird-classification
-
 # 🐦 CUB-200 Bird Species Classification  
 
 ## 📌 Overview  
@@ -33,3 +31,18 @@ Python 3.9+<br>
 PyTorch / TensorFlow (depending on your implementation)<br>
 Matplotlib & Seaborn (visualization)<br>
 NumPy & Pandas
+
+## 📚 What I Learned from This Project  
+
+Working on this project gave me hands-on experience with:  
+
+- Implementing and fine-tuning **EfficientNet-B0** for a real-world classification task  
+- Handling a **large fine-grained dataset (CUB-200-2011)** and preparing it for training  
+- Applying **data preprocessing techniques** such as normalization, augmentation, and train-test splits  
+- Understanding the **importance of transfer learning** and how pre-trained models accelerate convergence  
+- Experimenting with **evaluation metrics** (accuracy, top-5 accuracy, ROC curves) to assess model performance  
+- Structuring a machine learning project with **modular code (dataset, model, train, evaluate)** for clarity and reusability  
+- Using **TensorFlow** effectively for deep learning workflows   
+
+This project helped strengthen both my deep learning fundamentals and practical ML engineering skills.  
+
