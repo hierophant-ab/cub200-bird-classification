@@ -11,16 +11,16 @@ The goal of this project is to build and evaluate deep learning models that can 
 ---
 
 ## 📂 Project Structure
-CUB-200-Classification/
-│── data/ # Dataset (not included in repo)
-│── models/ # Saved trained models
-│── notebooks/ # Jupyter notebooks for experiments
-│── src/ # Source code
-│ ├── dataset.py # Data loading & preprocessing
-│ ├── model.py # Model architecture(s)
-│ ├── train.py # Training script
-│ ├── evaluate.py # Evaluation script
-│── requirements.txt # Python dependencies
+CUB-200-Classification/<\br>
+│── data/ # Dataset (not included in repo)<\br>
+│── models/ # Saved trained models<\br>
+│── notebooks/ # Jupyter notebooks for experiments<\br>
+│── src/ # Source code<\br>
+│ ├── dataset.py # Data loading & preprocessing<\br>
+│ ├── model.py # Model architecture(s)<\br>
+│ ├── train.py # Training script<\br>
+│ ├── evaluate.py # Evaluation script<\br>
+│── requirements.txt # Python dependencies<\br>
 │── README.md # Project documentation
 
 ## 📊 Dataset  
@@ -29,7 +29,7 @@ The project uses the **CUB-200-2011 dataset**, available at:
 
 🛠️ Technologies Used
 
-Python 3.9+
-PyTorch / TensorFlow (depending on your implementation)
-Matplotlib & Seaborn (visualization)
+Python 3.9+<\br>
+PyTorch / TensorFlow (depending on your implementation)<\br>
+Matplotlib & Seaborn (visualization)<\br>
 NumPy & Pandas
